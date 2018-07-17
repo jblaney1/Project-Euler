@@ -1,0 +1,3 @@
+﻿  Challenge 10.cpp
+c:\users\batman\source\repos\challenge 10\challenge 10\challenge 10.cpp(29): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  Challenge 10.vcxproj -> C:\Users\Batman\source\repos\Challenge 10\Debug\Challenge 10.exe
