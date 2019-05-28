@@ -1,0 +1,4 @@
+﻿  Challenge 13.cpp
+c:\users\batman\source\repos\challenge 13\challenge 13\challenge 13.cpp(10): warning C4101: 'test': unreferenced local variable
+c:\users\batman\source\repos\challenge 13\challenge 13\challenge 13.cpp(9): warning C4101: 'num': unreferenced local variable
+  Challenge 13.vcxproj -> C:\Users\Batman\source\repos\Challenge 13\Debug\Challenge 13.exe
